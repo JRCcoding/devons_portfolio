@@ -58,7 +58,7 @@ body {
     position: relative;
     left: -1600px;
     transition: left 1.5s ease-in-out;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
 }
 
 
@@ -88,7 +88,7 @@ body {
 }
   
 #scroller-content img {
-    height: 350px;
+    height: 250px;
     transition: transform 0.3s ease-in-out;
 }
 
@@ -114,8 +114,7 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     flex-direction: column;
-    margin-left: 15%;
-    margin-right: 15%;    
+    margin: 25% 15%;
 }
 #about h1 {
     font-size: 60px;
